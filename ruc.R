@@ -1,5 +1,3 @@
-library(tidyverse)
-
 # RUC function
 
 regress_surrogates <- function(data, markers, surrogates, trans_surr, interaction) {
